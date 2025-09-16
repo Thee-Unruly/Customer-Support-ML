@@ -77,7 +77,4 @@ The project aims to **improve customer service operations** by applying **data a
 ---
 
 ## 👨‍💻 Author
-**[Your Name]**  
-📧 *your.email@example.com*  
-🔗 [LinkedIn](#) | [GitHub](#)  
-
+**[Ibrahim Fadhili]**  
